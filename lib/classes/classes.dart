@@ -1,0 +1,10 @@
+export 'package:salgar2023/classes/db.dart';
+export 'package:salgar2023/classes/catalogo.dart';
+export 'package:salgar2023/classes/serie.dart';
+export 'package:salgar2023/classes/gamas.dart';
+export 'package:salgar2023/classes/producto.dart';
+export 'package:salgar2023/classes/estampado.dart';
+export 'package:salgar2023/classes/tipo_producto.dart';
+export 'package:salgar2023/classes/subTipo.dart';
+export 'package:salgar2023/classes/url.dart';
+export 'package:salgar2023/classes/language.utils.dart';
